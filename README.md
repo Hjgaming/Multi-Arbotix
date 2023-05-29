@@ -1,11 +1,23 @@
-# Multi-Arbotix.  
+## Multi-Arbotix
 
-## Installation.
-> Replit User :- add token and mongodb url in env
+• USE THIS BOT GIVE CREDIT.
 
-## Credit.
-> Made By Arbotix Codez. ||
-> Made By Hjgaming. ||
-> Made By Arbotix Development.
+• BOT MADE BY HJ GAMING MUST JOIN ARBOTIX DEVELOPMENT 
 
-## Must Give Credit To Use This Code.
+• DONT REMOVE BOT STATUS NAME DONT CHANGE BOT STATUS NAME MUST HAVE MY NAME IN BOT STATUS.
+
+## SETUP
+1- ADD YOUR TOKEN AND MONGODB IN ENV FILE.
+
+
+2- RUN YOUR BOT WITH NPM I AND NODE INDEX.JS.
+
+
+## CREDIT
+• HJ GAMING , ARBOTIX CODEZ , ARBOTIX DEVELOPMENT
+
+
+## ANY ERROR JOIN DISCORD SERVER
+• [DISCORD SERVER](https://discord.gg/7wmb5x7qp4)
+
+## • ENJOY THIS CODE THANKS TO HJ GAMING.
